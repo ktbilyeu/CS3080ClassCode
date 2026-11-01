@@ -8,7 +8,7 @@
 ## I hope you enjoy grading my code, and you have a great day!
 
 ## An example of some python code I've written before to help prove that this isn't simply auto-generated code:
-## https://github.com/Bikatr7/Kudasai
+## https://github.com/ktbilyeu/Kudasai
 
 ## built-in libraries
 import typing
